@@ -3,6 +3,6 @@ For the database course project we presented an API for a streaming music servic
 
 
 
-The diagram below shows the ER model of our database.
+The diagram below shows the [ER]("ER.pdf") model of our database.
 
 <img src="ER.png">
